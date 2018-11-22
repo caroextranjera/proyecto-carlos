@@ -1,0 +1,23 @@
+nav {
+	background-color: yellow;
+}
+
+.carousel-item {
+       width: 80%;
+       margin-left: 10%;
+       margin-right: 10%;
+
+	} 
+
+.carousel-item img {
+	height: 600px;
+}
+
+
+
+
+@media (max-width: 1200px) {
+.carousel-item	img {
+	height: 300px;
+}
+}
